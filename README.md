@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Vaishakhichavan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vaishakhichavan/Vaishakhichavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>vaishakhi chavan</title>
+  </head>
+  <body>
+    <h1>first heading</h1>
+    <h2>second heading</h2>
+    <h3>third heading</h3>
+    <h4>forth heading</h4>
+    <h5>fifth heading</h5>
+    <h6>sixth heading</h6>
+  </body>
+  </html>
+      
